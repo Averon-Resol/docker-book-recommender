@@ -1,0 +1,182 @@
+[
+{
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "cover_url": "static/covers/1.jpg",
+    "tags": ["fantasy", "epic", "adventure"]
+},
+{
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "cover_url": "static/covers/2.jpg",
+    "tags": ["fantasy", "epic", "magic"]
+},
+{
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "cover_url": "static/covers/3.jpg",
+    "tags": ["fantasy", "epic", "politics"]
+},
+{
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "cover_url": "static/covers/4.jpg",
+    "tags": ["fantasy", "magic", "adventure"]
+},
+{
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "cover_url": "static/covers/5.jpg",
+    "tags": ["fantasy", "classic", "adventure"]
+},
+{
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "cover_url": "static/covers/6.jpg",
+    "tags": ["fantasy", "heist", "adventure"]
+},
+{
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "cover_url": "static/covers/7.jpg",
+    "tags": ["fantasy", "grimdark", "adventure"]
+},
+{
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "cover_url": "static/covers/8.jpg",
+    "tags": ["fantasy", "dragons", "epic"]
+},
+{
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "cover_url": "static/covers/9.jpg",
+    "tags": ["fantasy", "dragons", "adventure"]
+},
+{
+    "title": "The Black Prism",
+    "author": "Brent Weeks",
+    "cover_url": "static/covers/10.jpg",
+    "tags": ["fantasy", "magic", "adventure"]
+},
+{
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "cover_url": "static/covers/11.jpg",
+    "tags": ["sci-fi", "epic", "space"]
+},
+{
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "cover_url": "static/covers/12.jpg",
+    "tags": ["sci-fi", "cyberpunk", "technology"]
+},
+{
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "cover_url": "static/covers/13.jpg",
+    "tags": ["sci-fi", "epic", "space"]
+},
+{
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "cover_url": "static/covers/14.jpg",
+    "tags": ["sci-fi", "military", "space"]
+},
+{
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "cover_url": "static/covers/15.jpg",
+    "tags": ["sci-fi", "cyberpunk", "adventure"]
+},
+{
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "cover_url": "static/covers/16.jpg",
+    "tags": ["sci-fi", "survival", "space"]
+},
+{
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "cover_url": "static/covers/17.jpg",
+    "tags": ["sci-fi", "epic", "space"]
+},
+{
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "cover_url": "static/covers/18.jpg",
+    "tags": ["sci-fi", "classic", "society"]
+},
+{
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "cover_url": "static/covers/19.jpg",
+    "tags": ["sci-fi", "cyberpunk", "crime"]
+},
+{
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "cover_url": "static/covers/20.jpg",
+    "tags": ["sci-fi", "military", "space"]
+},
+{
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "cover_url": "static/covers/21.jpg",
+    "tags": ["romance", "classic", "society"]
+},
+{
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "cover_url": "static/covers/22.jpg",
+    "tags": ["romance", "historical", "adventure"]
+},
+{
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "cover_url": "static/covers/23.jpg",
+    "tags": ["romance", "drama", "contemporary"]
+},
+{
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "cover_url": "static/covers/24.jpg",
+    "tags": ["romance", "drama", "contemporary"]
+},
+{
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "cover_url": "static/covers/25.jpg",
+    "tags": ["romance", "fantasy", "young_adult"]
+},
+{
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "cover_url": "static/covers/26.jpg",
+    "tags": ["romance", "classic", "gothic"]
+},
+{
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "cover_url": "static/covers/27.jpg",
+    "tags": ["romance", "fantasy", "drama"]
+},
+{
+    "title": "Beautiful Disaster",
+    "author": "Jamie McGuire",
+    "cover_url": "static/covers/28.jpg",
+    "tags": ["romance", "contemporary", "drama"]
+},
+{
+    "title": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "cover_url": "static/covers/29.jpg",
+    "tags": ["romance", "drama", "contemporary"]
+},
+{
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "cover_url": "static/covers/30.jpg",
+    "tags": ["romance", "contemporary", "LGBTQ"]
+}
+]
